@@ -1,2 +1,2 @@
-# FristProject
+# SpringBootFristProject
 Educational Purpose
